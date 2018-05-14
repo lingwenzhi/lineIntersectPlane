@@ -1,1 +1,2 @@
 # lineIntersectPlane
+判读线段与平面是否相交
