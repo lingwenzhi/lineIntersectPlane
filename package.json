@@ -1,0 +1,19 @@
+{
+  "name": "lineintersectplane",
+  "version": "1.0.0",
+  "description": "检测线段是否与平面相交",
+  "main": "lineIntersectPlane.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lingwenzhi/lineIntersectPlane.git"
+  },
+  "author": "sunshineLWZL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lingwenzhi/lineIntersectPlane/issues"
+  },
+  "homepage": "https://github.com/lingwenzhi/lineIntersectPlane#readme"
+}
